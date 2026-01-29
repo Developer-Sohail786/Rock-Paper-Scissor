@@ -1,11 +1,6 @@
 let userscore = 0;
 let compscore = 0;
 let game_draw = 0;
-// for github purpose only
-let player=1;
-let player1=2
-let player3="Sohail"
-// ends here
 const choices = document.querySelectorAll(".choices");
 const msg = document.querySelector("#msg");
 const userscorep = document.querySelector("#user-score");
